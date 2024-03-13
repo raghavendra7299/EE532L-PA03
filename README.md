@@ -31,7 +31,7 @@ The Pima Indians Diabetes Database is a widely used dataset in machine learning,
 The target variable is a binary variable indicating whether a patient has diabetes or not. It takes the values 0 (no diabetes) or 1 (diabetes). Now your goal is to build a feed forward neural network from scratch to accurately classify individuals as diabetic or non-diabetic based on the given attributes.
 
 ## About (pa03_b.ipynb)
-The PneumoniaMNIST consists of 5,856 pediatric chest X-Ray images. The task is binary-class classification of pneumonia against normal. The #Training/ Validation/Test is 4,708/524/624. The source images are gray-scale, and their sizes are (384–2,916) × (127–2,713). Image size is 1 × 28 × 28.
+The PneumoniaMNIST consists of 5,856 pediatric chest X-Ray images. The task is binary-class classification of pneumonia against normal. The #Training/ Validation/Test is 4,708/524/624. Image size is 1 × 28 × 28.
 
 The target variable is a binary variable indicating whether a patient has pneumonia or not. Now your goal is to build a feed forward neural network using tensorflow to accurately classify.
 
