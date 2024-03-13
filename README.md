@@ -31,6 +31,7 @@ This time you also have to perform validation. You have to plot graphs of all th
 
 ## About (pa03_b.ipynb)
 The PneumoniaMNIST consists of 5,856 pediatric chest X-Ray images. The task is binary-class classification of pneumonia against normal. The #Training/ Validation/Test is 4,708/524/624. Image size is 1 × 28 × 28.
+
 ![fig](assets/pos.png)
 ![fig](assets/neg.png)
 
