@@ -7,7 +7,7 @@ Methods used to improve accuracy:
 
 Bonus question:
 ![fig](assets/logo.png)
- - Observations:
+ -Results and Observations:
 
 ## Report (pa03_b.ipynb)
 Accuracy: 
@@ -15,7 +15,7 @@ Accuracy:
 Methods used to improve accuracy:
 
 Bonus question:
- - Observations:
+ -Results and Observations:
 
 ## About (pa03_a.py)
 The Pima Indians Diabetes Database is a widely used dataset in machine learning, particularly for binary classification tasks related to diabetes prediction. The dataset consists of 768 instances. There are 8 numeric predictive attributes. The attributes are as follows:
@@ -28,7 +28,7 @@ The Pima Indians Diabetes Database is a widely used dataset in machine learning,
  - DiabetesPedigreeFunction: Diabetes pedigree function (a function which scores the likelihood of diabetes based on family history)
  - Age: Age in years
 
-The target variable is a binary variable indicating whether a patient has diabetes or not. It takes the values 0 (no diabetes) or 1 (diabetes). Now your goal is to build a feed forward neural network from scratch to accurately classify individuals as diabetic or non-diabetic based on the given attributes.
+The target variable is a binary variable indicating whether a patient has diabetes or not. It takes the values 0 (no diabetes) or 1 (diabetes). Now your goal is to build a feed forward neural network from scratch, which includes 8 input neurons and 1 hidden layer with 3 neurons, to accurately classify individuals as diabetic or non-diabetic based on the given attributes.
 
 ## About (pa03_b.ipynb)
 The PneumoniaMNIST consists of 5,856 pediatric chest X-Ray images. The task is binary-class classification of pneumonia against normal. The #Training/ Validation/Test is 4,708/524/624. Image size is 1 × 28 × 28.
