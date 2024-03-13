@@ -5,9 +5,7 @@ Accuracy:
 
 Methods used to improve accuracy:
 
-Bonus question:
 ![fig](assets/logo.png)
-
 
 Results and Observations:
 
@@ -15,8 +13,6 @@ Results and Observations:
 Accuracy: 
 
 Methods used to improve accuracy:
-
-Bonus question:
 
 Results and Observations:
 
