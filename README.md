@@ -32,11 +32,13 @@ The Pima Indians Diabetes Database is a widely used dataset in machine learning,
  - Age: Age in years
 
 The target variable is a binary variable indicating whether a patient has diabetes or not. It takes the values 0 (no diabetes) or 1 (diabetes). Now your goal is to build a feed forward neural network from scratch, which includes 8 input neurons and 1 hidden layer with 3 neurons, to accurately classify individuals as diabetic or non-diabetic based on the given attributes.
+This time you also have to perform validation. You have to plot graphs of all the metrics as done in the first programming assignment. Each graph should have both training as well as validation curve. If you notice overfitting then address it accordingly and write your observations 
 
 ## About (pa03_b.ipynb)
 The PneumoniaMNIST consists of 5,856 pediatric chest X-Ray images. The task is binary-class classification of pneumonia against normal. The #Training/ Validation/Test is 4,708/524/624. Image size is 1 × 28 × 28.
 
 The target variable is a binary variable indicating whether a patient has pneumonia or not. Now your goal is to build a feed forward neural network using tensorflow to accurately classify.
+For this we have already provided you with a skeleton code, you just have to fill the snippets and tune the parameters. Similarly you have to plot the training and validation curves for all the metrics. You have to tune the hyperparameters accordingly if you notice overfitting in your plotted graphs.
 
 ## Instructions
   - Make sure you have a GitHub account. If you don't have one, create an account at [GitHub](https://github.com/).
