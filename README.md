@@ -31,6 +31,8 @@ This time you also have to perform validation. You have to plot graphs of all th
 
 ## About (pa03_b.ipynb)
 The PneumoniaMNIST consists of 5,856 pediatric chest X-Ray images. The task is binary-class classification of pneumonia against normal. The #Training/ Validation/Test is 4,708/524/624. Image size is 1 × 28 × 28.
+![fig](assets/pos.png)
+![fig](assets/neg.png)
 
 The target variable is a binary variable indicating whether a patient has pneumonia or not. Now your goal is to build a feed forward neural network using tensorflow to accurately classify.
 For this we have already provided you with a skeleton code, you just have to fill the snippets and tune the parameters. Similarly you have to plot the training and validation curves for all the metrics. You have to tune the hyperparameters accordingly if you notice overfitting in your plotted graphs.
