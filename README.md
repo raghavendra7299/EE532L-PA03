@@ -1,18 +1,17 @@
 # EE532L Deep Learning for Healthcare - Programming Assignment 03
 
 ## Report (pa03_a.py)
-Accuracy: 
+Performance metrics: 
 
-Methods used to improve accuracy:
-
+Figures:
 ![fig](assets/logo.png)
 
 Results and Observations:
 
 ## Report (pa03_b.ipynb)
-Accuracy: 
+Performance metrics: 
 
-Methods used to improve accuracy:
+Figures:
 
 Results and Observations:
 
