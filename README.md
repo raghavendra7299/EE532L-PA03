@@ -9,11 +9,13 @@ Figures:
 Results and Observations:
 
 ## Report (pa03_b.ipynb)
-Performance metrics: 
+Performance metrics: Accuracy= 0.75325
 
-Figures:
+Figures:![Train_metrics](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA03/assets/159757647/b7093a9e-c6c6-4b40-8320-3580d3fb374a)
+![Val_metrics](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA03/assets/159757647/13d5ae24-0f73-4358-b001-141de674bbf4)
 
-Results and Observations:
+
+Results and Observations: The neural network model achieved an accuracy of approximately 75%. Despite efforts to prevent overfitting, the accuracy remained consistent across epochs.
 
 ## About (pa03_a.py)
 The Pima Indians Diabetes Database is a widely used dataset in machine learning, particularly for binary classification tasks related to diabetes prediction. The dataset consists of 768 instances. There are 8 numeric predictive attributes. The attributes are as follows:
