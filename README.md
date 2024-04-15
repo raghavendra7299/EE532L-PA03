@@ -1,19 +1,23 @@
 # EE532L Deep Learning for Healthcare - Programming Assignment 03
 
 ## Report (pa03_a.py)
-Performance metrics: 
+Performance metrics: Test Accuracy: 0.76623
 
-Figures:
+Figures:![Screenshot 2024-04-15 001932](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA03/assets/159757647/d7c621ed-c43f-459f-acba-9bdb5c118f89)
+![Screenshot 2024-04-15 001952](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA03/assets/159757647/5be99a46-9730-4fe8-8e43-9338d94fb478)
+
+
 ![fig](assets/logo.png)
 
-Results and Observations:
+Results and Observations: The feedforward neural network achieved a test accuracy of approximately 76.62%. The model showed a decreasing trend in loss over the epochs, indicating that it was learning the underlying patterns in the data. Overall, the model demonstrated moderate performance in classifying individuals as diabetic or non-diabetic based on the given attributes, but further optimization and tuning may be necessary to improve its accuracy and generalization.
 
 ## Report (pa03_b.ipynb)
-Performance metrics: 
+Performance metrics: Test Accuracy: 0.625
 
-Figures:
+Figures:![Screenshot 2024-04-15 084602](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA03/assets/159757647/81ea4fd8-a695-4371-b9d1-5444cea54888)
+![Screenshot 2024-04-15 083347](https://github.com/Electrical-Engineering-IIT-Tirupati/EE532L-PA03/assets/159757647/e9df0954-4603-4419-a202-31890466a17a)
 
-Results and Observations:
+Results and Observations:For both configurations of the neural network, with two hidden layers of 16 neurons each and with three hidden layers of 64, 32, and 16 neurons respectively, the accuracy achieved on the dataset was approximately 62.5%. Despite the deeper architecture of the second configuration, which might suggest a potential for higher performance, both models yielded similar results. This could indicate that the complexity added by the additional hidden layers and neurons did not significantly improve the model's ability to classify pneumonia from normal chest X-ray images in this particular dataset. Further experimentation with different architectures, hyperparameters, and possibly data augmentation techniques may be necessary to improve the model's performance.
 
 ## About (pa03_a.py)
 The Pima Indians Diabetes Database is a widely used dataset in machine learning, particularly for binary classification tasks related to diabetes prediction. The dataset consists of 768 instances. There are 8 numeric predictive attributes. The attributes are as follows:
